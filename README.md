@@ -2,7 +2,7 @@
 
 ### [☞ chelseasmith.ca] (https://chelseasmith.ca)
 
-! [Wordmark] (chelseasmith-wordmark.jpg)
+! [] (chelseasmith-wordmark.jpeg)
 
 Ever since I was a toddler, I would always say that I wanted to be an artist when I grew up. It was instinctual for me to reach for markers and paper to draw. My passion for creating has never wavered.
 
