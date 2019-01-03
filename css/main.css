@@ -11,6 +11,9 @@ footer {
 footer div {
   display: inline-block;
   margin-left: 5em;
+}
+
+footer div p {
   color: white;
 }
 
