@@ -11,8 +11,8 @@ main div {
 footer {
   background-color: black;
   color: white;
-  padding-top: 10px;
-  padding-bottom: 5px;
+  margin-top: 5em;
+  margin-bottom: 3em;
 }
 
 footer div {
