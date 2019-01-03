@@ -1,7 +1,7 @@
 html {
   background-color: white;
   font-family: 'Zilla Slab', serif;
-  /* margin-left: 5em; */
+  margin-left: 5em;
 }
 
 footer {
@@ -18,7 +18,7 @@ footer {
   padding-top: 20px;
   display: inline-block;
   margin-top: 20px;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
   box-sizing: border-box;
   position: relative;
@@ -27,12 +27,12 @@ footer {
 
 footer div {
   display: inline-block;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 footer div p {
   color: white;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 h2, p {
@@ -42,19 +42,19 @@ h2, p {
 h2 {
   text-transform: uppercase;
   font-size: 2rem;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 p {
   font-size: 1rem;
   max-width: 30em;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 .buffer {
