@@ -134,3 +134,10 @@ section {
   margin-top: 25em;
   margin-bottom: 25em;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
