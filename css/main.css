@@ -44,10 +44,6 @@ ul {
   padding: 0;
 }
 
-.right {
-  text-align: right;
-}
-
 .buffer {
   margin-top: 25em;
   margin-bottom: 25em;
@@ -58,8 +54,11 @@ ul {
   margin-bottom: 25em;
 }
 
-.stacked {
-  display: block;
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .nav {
