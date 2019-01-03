@@ -1,6 +1,7 @@
 html {
   background-color: white;
   font-family: 'Zilla Slab', serif;
+  margin-left: 5em;
 }
 
 main div {
@@ -16,12 +17,12 @@ footer {
 
 footer div {
   display: inline-block;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 footer div p {
   color: white;
-  margin-left: 0;
+  /* margin-left: 0; */
 }
 
 h2, p {
@@ -31,13 +32,13 @@ h2, p {
 h2 {
   text-transform: uppercase;
   font-size: 2rem;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 p {
   font-size: 1rem;
   max-width: 30em;
-  margin-left: 5em;
+  /* margin-left: 5em; */
 }
 
 ul {
@@ -46,7 +47,7 @@ ul {
 }
 
 .nav {
-  margin: 0;
+  /* margin: 0; */
   padding: 0;
   list-style-type: none;
   text-align: right;
