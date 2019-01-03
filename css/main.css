@@ -29,7 +29,7 @@ a:visited {
 }
 
 a:hover {
-  color: orange;
+  color: #63ACB5;
 }
 
 a:focus {
@@ -37,5 +37,5 @@ a:focus {
 }
 
 a:active {
-  color: red;
+  color: #63ACB5;
 }
