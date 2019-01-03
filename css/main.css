@@ -3,6 +3,10 @@ html {
   font-family: 'Zilla Slab', serif;
 }
 
+main div {
+  align-content: center;
+}
+
 footer {
   background-color: black;
   color: white;
