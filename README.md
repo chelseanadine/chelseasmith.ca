@@ -1,6 +1,6 @@
 # Chelsea Smith
 
-## [☞ chelseasmith.ca] (https://chelseasmith.ca)
+### [☞ chelseasmith.ca] (https://chelseasmith.ca)
 
 ! [wordmark] (https://chelseanadine.github.io/chelseasmith-wordmark.jpg)
 
