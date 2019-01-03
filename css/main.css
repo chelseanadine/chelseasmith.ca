@@ -1,4 +1,12 @@
 html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
   background-color: white;
   font-family: 'Zilla Slab', serif;
   margin-left: 5em;
