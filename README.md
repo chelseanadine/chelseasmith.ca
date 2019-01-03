@@ -16,4 +16,6 @@ It feels right to be where I am today. Hopefully you’ll get a sense of who I a
 
 ---
 
+## License & Copyright
+
 Copyright © 2019 Chelsea Smith. All rights reserved.
