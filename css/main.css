@@ -71,8 +71,16 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 3rem;
 }
 
+/*
 .nav {
   margin-left: 0;
   margin-right: 0;
@@ -82,6 +90,7 @@ ul {
   text-transform: uppercase;
   font-size: 3rem;
 }
+*/
 
 .nav li {
   display: inline-block;
