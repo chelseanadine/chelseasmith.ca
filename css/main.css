@@ -71,10 +71,9 @@ ul {
 .navbar {
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 80%;
   margin-left: 0;
-  margin-right: 10em;
-  padding: 0;
+  margin-right: 20em;
   list-style-type: none;
   text-align: right;
   text-transform: uppercase;
