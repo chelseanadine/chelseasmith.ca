@@ -39,28 +39,27 @@ ul {
   padding: 1em 1em;
 }
 
-.nav a,
-a:link {
+.nav a:link {
   color: black;
   text-decoration: none;
 }
 
-a:visited {
+.nav a:visited {
   color: black;
   text-decoration: none;
 }
 
-a:hover {
+.nav a:hover {
   color: #63ACB5;
   text-decoration: underline;
 }
 
-a:focus {
+.nav a:focus {
   color: #63ACB5;
   text-decoration: underline;
 }
 
-a:active {
+.nav a:active {
   color: #63ACB5;
   text-decoration: underline;
 }
