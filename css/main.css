@@ -79,7 +79,7 @@ ul {
   list-style-type: none;
   text-align: right;
   text-transform: uppercase;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 /*
@@ -95,12 +95,12 @@ ul {
 */
 
 .nav li {
-  display: inline-block;
+  display: block;
   padding: 0;
 }
 
 .nav a {
-  display: inline-block;
+  display: block;
   padding: 0;
 }
 
