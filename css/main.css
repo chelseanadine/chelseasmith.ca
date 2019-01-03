@@ -89,8 +89,8 @@ ul {
 .navbar {
   position: fixed;
   top: 0;
-  width: 20%;
-  margin-left: 0;
+  width: 90%;
+  margin-left: 60em;
   margin-right: 10em;
   list-style-type: none;
   text-align: right;
