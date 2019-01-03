@@ -16,6 +16,7 @@ footer {
 
 .footer {
   padding-top: 20px;
+  padding-bottom: 20px;
   display: inline-block;
   margin-top: 20px;
   margin-left: 0;
@@ -73,7 +74,7 @@ ul {
   top: 0;
   width: 100%;
   margin-left: 0;
-  margin-right: 3em;
+  margin-right: 10em;
   padding: 0;
   list-style-type: none;
   text-align: right;
