@@ -19,6 +19,7 @@ h2 {
 
 header nav ul li {
   text-transform: uppercase;
+  font-size: 4rem;
 }
 
 header nav ul li a,
