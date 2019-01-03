@@ -24,7 +24,7 @@ ul {
 
 .nav {
   margin: 0;
-  padding: 2em 0;
+  padding: 0;
   list-style-type: none;
   text-align: right;
   text-transform: uppercase;
@@ -33,11 +33,12 @@ ul {
 
 .nav li {
   display: inline-block;
+  padding: 0;
 }
 
 .nav a {
   display: inline-block;
-  padding: 1em 1em;
+  padding: 0;
 }
 
 .nav a:link {
