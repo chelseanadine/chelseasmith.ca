@@ -44,3 +44,7 @@ a:active {
   color: #63ACB5;
   text-decoration: underline;
 }
+
+ul {
+  list-style-type: none;
+}
