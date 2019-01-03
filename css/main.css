@@ -8,6 +8,11 @@ footer {
   color: white;
 }
 
+footer div {
+  display: inline-block;
+  margin-left: 5em;
+}
+
 h2, p {
   color: black;
 }
