@@ -21,6 +21,7 @@ header nav ul li {
   text-transform: uppercase;
   font-size: 3rem;
   text-align: right;
+  display: inline-block;
 }
 
 header nav ul li a,
