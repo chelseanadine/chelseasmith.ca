@@ -89,3 +89,8 @@ ul {
   color: #63ACB5;
   text-decoration: underline;
 }
+
+section {
+  margin-top: 10em;
+  margin-bottom: 10em;
+}
