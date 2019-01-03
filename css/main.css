@@ -18,3 +18,24 @@ h2 {
 header nav ul li {
   text-transform: uppercase;
 }
+
+header nav ul li a,
+a:link {
+  color: darkgreen;
+}
+
+a:visited {
+  color: limegreen;
+}
+
+a:hover {
+  color: orange;
+}
+
+a:focus {
+  color: blue;
+}
+
+a:active {
+  color: red;
+}
