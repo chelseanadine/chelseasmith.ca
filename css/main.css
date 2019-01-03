@@ -21,21 +21,26 @@ header nav ul li {
 
 header nav ul li a,
 a:link {
-  color: darkgreen;
+  color: black;
+  text-decoration: none;
 }
 
 a:visited {
-  color: limegreen;
+  color: black;
+  text-decoration: none;
 }
 
 a:hover {
   color: #63ACB5;
+  text-decoration: underline;
 }
 
 a:focus {
-  color: blue;
+  color: #63ACB5;
+  text-decoration: underline;
 }
 
 a:active {
   color: #63ACB5;
+  text-decoration: underline;
 }
