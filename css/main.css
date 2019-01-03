@@ -69,6 +69,7 @@ ul {
 
 .navbar {
   position: fixed;
+  background-color: white;
   top: 0;
   width: 100%;
   margin-left: 0;
