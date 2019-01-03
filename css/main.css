@@ -11,6 +11,7 @@ footer {
 footer div {
   display: inline-block;
   margin-left: 5em;
+  color: white;
 }
 
 h2, p {
