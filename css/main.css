@@ -53,6 +53,10 @@ ul {
   margin-bottom: 25em;
 }
 
+.stacked {
+  display: block;
+}
+
 .nav {
   margin-left: 0;
   margin-right: 0;
