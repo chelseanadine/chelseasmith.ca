@@ -4,10 +4,6 @@ html {
   margin-left: 5em;
 }
 
-main div {
-  align-content: center;
-}
-
 footer {
   background-color: black;
   color: white;
@@ -46,6 +42,10 @@ p {
 ul {
   list-style-type: none;
   padding: 0;
+}
+
+.img {
+  align-content: center;
 }
 
 .nav {
