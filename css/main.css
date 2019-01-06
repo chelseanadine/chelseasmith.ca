@@ -4,33 +4,6 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-@media only screen and (min-width: 25em) {
-  html {
-    margin-left: 1em;
-    margin-right: 1em;
-  }
-}
-
-@media only screen and (min-width: 38em) {
-  html {
-    margin-left: 2.5em;
-    margin-right: 2.5em;
-  }
-}
-/*
-@media only screen and (min-width: 60em) {
-  html {
-    margin-left: 2em;
-  }
-}
-
-@media only screen and (min-width: 90em) {
-  html {
-    margin-left: 3em;
-  }
-}
-*/
-
 html {
   box-sizing: border-box;
   -moz-text-size-adjust: 100%;
@@ -43,10 +16,47 @@ html {
   box-sizing: inherit;
 }
 
+@media only screen and (min-width: 25em) {
+  html {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  footer {
+    height: 200px;
+    margin-top: 5em;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+  html {
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+  html {
+    margin-left: 5em;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  html {
+    margin-left: 5em;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  html {
+    margin-left: 5em;
+  }
+}
+
 html {
   background-color: white;
   font-family: 'Zilla Slab', serif;
-  margin-left: 5em;
+  margin-left: 1em;
 }
 
 footer {
@@ -54,9 +64,9 @@ footer {
   color: white;
   margin-left: 0;
   margin-right: 0;
-  margin-top: 5em;
+  margin-top: 1em;
   margin-bottom: 0;
-  height: 200px;
+  height: 50px;
 }
 
 .footer {
