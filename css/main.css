@@ -46,11 +46,35 @@ html {
   html {
     margin-left: 5em;
   }
+
+  .footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: auto;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 90em) {
   html {
     margin-left: 5em;
+  }
+
+  .footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: auto;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
   }
 }
 
