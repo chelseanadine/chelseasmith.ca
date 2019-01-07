@@ -30,18 +30,6 @@ html {
   }
 
   img.responsive {width: 200px;}
-
-  footer {
-    height: 50px;
-    margin-top: 2em;
-  }
-
-  .footer {
-    display: block;
-    box-sizing: border-box;
-    position: relative;
-    width: 100%;
-  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -51,18 +39,6 @@ html {
   }
 
   img.responsive {width: 400px;}
-
-  footer {
-    height: 100px;
-    margin-top: 3em;
-  }
-
-  .footer {
-    display: block;
-    box-sizing: border-box;
-    position: relative;
-    width: 100%;
-  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -70,20 +46,8 @@ html {
     margin-left: 5em;
   }
 
-  footer {
-    height: 600px;
-    margin-top: 5em;
-  }
-
   img.responsive {
     width: 600px;
-  }
-
-  .footer {
-    display: inline-block;
-    box-sizing: border-box;
-    position: relative;
-    width: 100%;
   }
 }
 
@@ -92,20 +56,8 @@ html {
     margin-left: 5em;
   }
 
-  footer {
-    height: 600px;
-    margin-top: 5em;
-  }
-
   img.responsive {
     width: 600px;
-  }
-
-  .footer {
-    display: inline-block;
-    box-sizing: border-box;
-    position: relative;
-    width: 100%;
   }
 }
 
@@ -127,7 +79,7 @@ footer {
   margin-right: 0;
   margin-top: 1em;
   margin-bottom: 0;
-  height: 50px;
+  height: 200px;
 }
 
 .footer {
