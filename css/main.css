@@ -23,9 +23,13 @@ html {
 
 
 @media only screen and (min-width: 25em) {
-  html {
+  html, {
     margin-left: 1em;
     margin-right: 1em;
+  }
+
+  img {
+    width: 40%;
   }
 
   footer {
@@ -47,6 +51,10 @@ html {
     margin-right: 2.5em;
   }
 
+  img {
+    width: 60%;
+  }
+
   footer {
     height: 100px;
     margin-top: 3em;
@@ -65,6 +73,10 @@ html {
     margin-left: 5em;
   }
 
+  img {
+    width: 80%;
+  }
+
   footer {
     height: 200px;
     margin-top: 5em;
@@ -81,6 +93,10 @@ html {
 @media only screen and (min-width: 90em) {
   html {
     margin-left: 5em;
+  }
+
+  img {
+    width: 100%;
   }
 
   footer {
@@ -108,6 +124,10 @@ html {
   margin-left: 5em;
 }
 
+img {
+  width: 20%;
+}
+
 footer {
   background-color: black;
   color: white;
@@ -132,12 +152,10 @@ footer {
 
 footer div {
   display: inline-block;
-  /* margin-left: 5em; */
 }
 
 footer div p {
   color: white;
-  /* margin-left: 5em; */
 }
 
 h2, p {
@@ -147,19 +165,16 @@ h2, p {
 h2 {
   text-transform: uppercase;
   font-size: 2rem;
-  /* margin-left: 5em; */
 }
 
 p {
   font-size: 1rem;
   max-width: 30em;
-  /* margin-left: 5em; */
 }
 
 ul {
   list-style-type: none;
   padding: 0;
-  /* margin-left: 5em; */
 }
 
 .buffer {
@@ -183,18 +198,6 @@ ul {
   display: block;
   font-size: 2.5rem;
 }
-
-/*
-.nav {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 0;
-  list-style-type: none;
-  text-align: right;
-  text-transform: uppercase;
-  font-size: 3rem;
-}
-*/
 
 .nav li {
   display: block;
