@@ -16,7 +16,9 @@ html {
   box-sizing: inherit;
 }
 
-
+img {
+  width: 100%;
+}
 
 
 
