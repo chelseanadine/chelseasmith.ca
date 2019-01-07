@@ -31,6 +31,18 @@ html {
 
   img.responsive {width: 200px;
   }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    margin-left: 5em;
+    list-style-type: none;
+    text-align: right;
+    text-transform: uppercase;
+    display: block;
+    font-size: 1rem;
+  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -40,6 +52,18 @@ html {
   }
 
   img.responsive {width: 400px;
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    margin-left: 8em;
+    list-style-type: none;
+    text-align: right;
+    text-transform: uppercase;
+    display: block;
+    font-size: 1.5rem;
   }
 }
 
@@ -52,6 +76,18 @@ html {
   img.responsive {
     width: 600px;
   }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    margin-left: 10em;
+    list-style-type: none;
+    text-align: right;
+    text-transform: uppercase;
+    display: block;
+    font-size: 2.5rem;
+  }
 }
 
 @media only screen and (min-width: 90em) {
@@ -62,6 +98,18 @@ html {
 
   img.responsive {
     width: 600px;
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    margin-left: 12em;
+    list-style-type: none;
+    text-align: right;
+    text-transform: uppercase;
+    display: block;
+    font-size: 2.5rem;
   }
 }
 
@@ -132,18 +180,6 @@ ul {
 .bbuffer {
   margin-top: 0;
   margin-bottom: 25em;
-}
-
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 50%;
-  margin-left: 14em;
-  list-style-type: none;
-  text-align: right;
-  text-transform: uppercase;
-  display: block;
-  font-size: 2.5rem;
 }
 
 .nav li {
