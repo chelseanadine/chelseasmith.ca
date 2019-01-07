@@ -51,6 +51,13 @@ html {
     height: 100px;
     margin-top: 3em;
   }
+
+  .footer {
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 60em) {
@@ -64,12 +71,7 @@ html {
   }
 
   .footer {
-    padding-top: 20px;
-    padding-bottom: 20px;
     display: inline-block;
-    margin-top: 20px;
-    margin-left: 0;
-    margin-right: auto;
     box-sizing: border-box;
     position: relative;
     width: 100%;
@@ -87,12 +89,7 @@ html {
   }
 
   .footer {
-    padding-top: 20px;
-    padding-bottom: 20px;
     display: inline-block;
-    margin-top: 20px;
-    margin-left: 0;
-    margin-right: auto;
     box-sizing: border-box;
     position: relative;
     width: 100%;
@@ -124,7 +121,7 @@ footer {
 .footer {
   padding-top: 20px;
   padding-bottom: 20px;
-  display: inline-block;
+  display: block;
   margin-top: 20px;
   margin-left: 0;
   margin-right: auto;
