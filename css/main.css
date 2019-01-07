@@ -46,6 +46,7 @@ html {
 @media only screen and (min-width: 60em) {
   html, body {
     margin-left: 5em;
+    margin-left: 5em;
   }
 
   img.responsive {
@@ -56,6 +57,7 @@ html {
 @media only screen and (min-width: 90em) {
   html, body {
     margin-left: 5em;
+    margin-right: 5em;
   }
 
   img.responsive {
@@ -71,7 +73,6 @@ html {
 html {
   background-color: white;
   font-family: 'Zilla Slab', serif;
-  margin-left: 5em;
 }
 
 footer {
