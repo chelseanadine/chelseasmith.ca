@@ -50,7 +50,7 @@ html {
     margin-right: 2.5em;
   }
 
-  img.responsive {width: 200px;}
+  img.responsive {width: 400px;}
 
   footer {
     height: 100px;
@@ -71,8 +71,12 @@ html {
   }
 
   footer {
-    height: 200px;
+    height: 600px;
     margin-top: 5em;
+  }
+
+  img.responsive {
+    width: 600px;
   }
 
   .footer {
@@ -89,8 +93,12 @@ html {
   }
 
   footer {
-    height: 200px;
+    height: 600px;
     margin-top: 5em;
+  }
+
+  img.responsive {
+    width: 600px;
   }
 
   .footer {
@@ -100,7 +108,6 @@ html {
     width: 100%;
   }
 }
-
 
 
 
