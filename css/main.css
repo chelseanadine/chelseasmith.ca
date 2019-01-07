@@ -29,6 +29,8 @@ html {
     margin-right: 1em;
   }
 
+  img.responsive {width: 200px;}
+
   footer {
     height: 50px;
     margin-top: 2em;
@@ -47,6 +49,8 @@ html {
     margin-left: 2.5em;
     margin-right: 2.5em;
   }
+
+  img.responsive {width: 200px;}
 
   footer {
     height: 100px;
@@ -102,6 +106,7 @@ html {
 
 
 
+img.responsive{height: auto;}
 
 html {
   background-color: white;
