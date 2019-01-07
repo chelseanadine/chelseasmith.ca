@@ -29,10 +29,6 @@ html {
     margin-right: 1em;
   }
 
-  img {
-    width: 40%;
-  }
-
   footer {
     height: 50px;
     margin-top: 2em;
@@ -50,10 +46,6 @@ html {
   html {
     margin-left: 2.5em;
     margin-right: 2.5em;
-  }
-
-  img {
-    width: 60%;
   }
 
   footer {
