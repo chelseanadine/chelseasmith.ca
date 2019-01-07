@@ -24,25 +24,27 @@ html {
 
 
 @media only screen and (min-width: 25em) {
-  html, {
+  html, body {
     margin-left: 1em;
     margin-right: 1em;
   }
 
-  img.responsive {width: 200px;}
+  img.responsive {width: 200px;
+  }
 }
 
 @media only screen and (min-width: 38em) {
-  html {
+  html, body {
     margin-left: 2.5em;
     margin-right: 2.5em;
   }
 
-  img.responsive {width: 400px;}
+  img.responsive {width: 400px;
+  }
 }
 
 @media only screen and (min-width: 60em) {
-  html {
+  html, body {
     margin-left: 5em;
   }
 
@@ -52,7 +54,7 @@ html {
 }
 
 @media only screen and (min-width: 90em) {
-  html {
+  html, body {
     margin-left: 5em;
   }
 
