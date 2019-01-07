@@ -16,9 +16,8 @@ html {
   box-sizing: inherit;
 }
 
-img {
-  width: 100%;
-}
+
+
 
 
 
@@ -75,10 +74,6 @@ img {
     margin-left: 5em;
   }
 
-  img {
-    width: 80%;
-  }
-
   footer {
     height: 200px;
     margin-top: 5em;
@@ -95,10 +90,6 @@ img {
 @media only screen and (min-width: 90em) {
   html {
     margin-left: 5em;
-  }
-
-  img {
-    width: 100%;
   }
 
   footer {
